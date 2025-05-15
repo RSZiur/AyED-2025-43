@@ -1,0 +1,7 @@
+c:\users\alumno\documents\visual studio 2015\Projects\0_Ruiz_0\0_Ruiz_0\bin\Debug\0_Ruiz_0.exe.config
+C:\Users\Alumno\Desktop\AyED-2025\Etapa 0\0_Ruiz_0\0_Ruiz_0\bin\Debug\0_Ruiz_0.exe.config
+C:\Users\Alumno\Desktop\AyED-2025\Etapa 0\0_Ruiz_0\0_Ruiz_0\bin\Debug\0_Ruiz_0.exe
+C:\Users\Alumno\Desktop\AyED-2025\Etapa 0\0_Ruiz_0\0_Ruiz_0\bin\Debug\0_Ruiz_0.pdb
+C:\Users\Alumno\Desktop\AyED-2025\Etapa 0\0_Ruiz_0\0_Ruiz_0\obj\Debug\0_Ruiz_0.csprojResolveAssemblyReference.cache
+C:\Users\Alumno\Desktop\AyED-2025\Etapa 0\0_Ruiz_0\0_Ruiz_0\obj\Debug\0_Ruiz_0.exe
+C:\Users\Alumno\Desktop\AyED-2025\Etapa 0\0_Ruiz_0\0_Ruiz_0\obj\Debug\0_Ruiz_0.pdb
