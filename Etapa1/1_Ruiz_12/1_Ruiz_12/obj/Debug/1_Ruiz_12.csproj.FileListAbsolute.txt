@@ -1,0 +1,12 @@
+c:\users\alumno\documents\visual studio 2015\Projects\1_Ruiz_12\1_Ruiz_12\bin\Debug\1_Ruiz_12.exe.config
+c:\users\alumno\documents\visual studio 2015\Projects\1_Ruiz_12\1_Ruiz_12\bin\Debug\1_Ruiz_12.exe
+c:\users\alumno\documents\visual studio 2015\Projects\1_Ruiz_12\1_Ruiz_12\bin\Debug\1_Ruiz_12.pdb
+c:\users\alumno\documents\visual studio 2015\Projects\1_Ruiz_12\1_Ruiz_12\obj\Debug\1_Ruiz_12.exe
+c:\users\alumno\documents\visual studio 2015\Projects\1_Ruiz_12\1_Ruiz_12\obj\Debug\1_Ruiz_12.pdb
+C:\Users\Alumno\Documents\Visual Studio 2015\Projects\1_Ruiz_12\1_Ruiz_12\obj\Debug\1_Ruiz_12.csprojResolveAssemblyReference.cache
+C:\Users\Alumno\Desktop\AyED-2025\Etapa1\1_Ruiz_12\1_Ruiz_12\bin\Debug\1_Ruiz_12.exe.config
+C:\Users\Alumno\Desktop\AyED-2025\Etapa1\1_Ruiz_12\1_Ruiz_12\obj\Debug\1_Ruiz_12.exe
+C:\Users\Alumno\Desktop\AyED-2025\Etapa1\1_Ruiz_12\1_Ruiz_12\obj\Debug\1_Ruiz_12.pdb
+C:\Users\Alumno\Desktop\AyED-2025\Etapa1\1_Ruiz_12\1_Ruiz_12\bin\Debug\1_Ruiz_12.exe
+C:\Users\Alumno\Desktop\AyED-2025\Etapa1\1_Ruiz_12\1_Ruiz_12\bin\Debug\1_Ruiz_12.pdb
+C:\Users\Alumno\Desktop\AyED-2025\Etapa1\1_Ruiz_12\1_Ruiz_12\obj\Debug\1_Ruiz_12.csprojResolveAssemblyReference.cache

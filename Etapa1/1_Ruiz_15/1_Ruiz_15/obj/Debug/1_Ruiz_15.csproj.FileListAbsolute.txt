@@ -1,0 +1,5 @@
+C:\Users\Alumno\Desktop\Emir Cervantes TP4\1_Ruiz_15\1_Ruiz_15\bin\Debug\1_Ruiz_15.exe.config
+C:\Users\Alumno\Desktop\Emir Cervantes TP4\1_Ruiz_15\1_Ruiz_15\bin\Debug\1_Ruiz_15.exe
+C:\Users\Alumno\Desktop\Emir Cervantes TP4\1_Ruiz_15\1_Ruiz_15\bin\Debug\1_Ruiz_15.pdb
+C:\Users\Alumno\Desktop\Emir Cervantes TP4\1_Ruiz_15\1_Ruiz_15\obj\Debug\1_Ruiz_15.exe
+C:\Users\Alumno\Desktop\Emir Cervantes TP4\1_Ruiz_15\1_Ruiz_15\obj\Debug\1_Ruiz_15.pdb
