@@ -1,0 +1,5 @@
+c:\users\alumno\documents\visual studio 2015\Projects\2_RuizyTicona_11\2_RuizyTicona_11\bin\Debug\2_RuizyTicona_11.exe.config
+c:\users\alumno\documents\visual studio 2015\Projects\2_RuizyTicona_11\2_RuizyTicona_11\bin\Debug\2_RuizyTicona_11.exe
+c:\users\alumno\documents\visual studio 2015\Projects\2_RuizyTicona_11\2_RuizyTicona_11\bin\Debug\2_RuizyTicona_11.pdb
+c:\users\alumno\documents\visual studio 2015\Projects\2_RuizyTicona_11\2_RuizyTicona_11\obj\Debug\2_RuizyTicona_11.exe
+c:\users\alumno\documents\visual studio 2015\Projects\2_RuizyTicona_11\2_RuizyTicona_11\obj\Debug\2_RuizyTicona_11.pdb
