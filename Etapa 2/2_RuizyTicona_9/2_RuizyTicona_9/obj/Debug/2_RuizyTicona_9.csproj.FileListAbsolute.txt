@@ -1,0 +1,6 @@
+c:\users\alumno\documents\visual studio 2015\Projects\2_RuizyTicona_9\2_RuizyTicona_9\bin\Debug\2_RuizyTicona_9.exe.config
+c:\users\alumno\documents\visual studio 2015\Projects\2_RuizyTicona_9\2_RuizyTicona_9\bin\Debug\2_RuizyTicona_9.exe
+c:\users\alumno\documents\visual studio 2015\Projects\2_RuizyTicona_9\2_RuizyTicona_9\bin\Debug\2_RuizyTicona_9.pdb
+c:\users\alumno\documents\visual studio 2015\Projects\2_RuizyTicona_9\2_RuizyTicona_9\obj\Debug\2_RuizyTicona_9.csprojResolveAssemblyReference.cache
+c:\users\alumno\documents\visual studio 2015\Projects\2_RuizyTicona_9\2_RuizyTicona_9\obj\Debug\2_RuizyTicona_9.exe
+c:\users\alumno\documents\visual studio 2015\Projects\2_RuizyTicona_9\2_RuizyTicona_9\obj\Debug\2_RuizyTicona_9.pdb

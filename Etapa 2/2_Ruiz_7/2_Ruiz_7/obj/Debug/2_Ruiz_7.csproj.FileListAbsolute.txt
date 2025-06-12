@@ -1,0 +1,6 @@
+c:\users\alumno\documents\visual studio 2015\Projects\2_Ruiz_7\2_Ruiz_7\bin\Debug\2_Ruiz_7.exe.config
+c:\users\alumno\documents\visual studio 2015\Projects\2_Ruiz_7\2_Ruiz_7\obj\Debug\2_Ruiz_7.csprojResolveAssemblyReference.cache
+C:\Users\Alumno\documents\visual studio 2015\Projects\2_Ruiz_7\2_Ruiz_7\bin\Debug\2_Ruiz_7.exe
+C:\Users\Alumno\documents\visual studio 2015\Projects\2_Ruiz_7\2_Ruiz_7\bin\Debug\2_Ruiz_7.pdb
+C:\Users\Alumno\documents\visual studio 2015\Projects\2_Ruiz_7\2_Ruiz_7\obj\Debug\2_Ruiz_7.exe
+C:\Users\Alumno\documents\visual studio 2015\Projects\2_Ruiz_7\2_Ruiz_7\obj\Debug\2_Ruiz_7.pdb
