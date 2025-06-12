@@ -1,0 +1,12 @@
+C:\Users\Alumno\Desktop\Emir Cervantes TP4\2_Ruiz_3\2_Ruiz_3\bin\Debug\2_Ruiz_3.exe.config
+C:\Users\Alumno\Desktop\Emir Cervantes TP4\2_Ruiz_3\2_Ruiz_3\obj\Debug\2_Ruiz_3.csprojResolveAssemblyReference.cache
+C:\Users\Alumno\Desktop\Emir Cervantes TP4\2_Ruiz_3\2_Ruiz_3\bin\Debug\2_Ruiz_3.exe
+C:\Users\Alumno\Desktop\Emir Cervantes TP4\2_Ruiz_3\2_Ruiz_3\bin\Debug\2_Ruiz_3.pdb
+C:\Users\Alumno\Desktop\Emir Cervantes TP4\2_Ruiz_3\2_Ruiz_3\obj\Debug\2_Ruiz_3.exe
+C:\Users\Alumno\Desktop\Emir Cervantes TP4\2_Ruiz_3\2_Ruiz_3\obj\Debug\2_Ruiz_3.pdb
+C:\Users\Alumno\Desktop\AyED-2025\Etapa2\2_Ruiz_3\2_Ruiz_3\bin\Debug\2_Ruiz_3.exe.config
+C:\Users\Alumno\Desktop\AyED-2025\Etapa2\2_Ruiz_3\2_Ruiz_3\obj\Debug\2_Ruiz_3.exe
+C:\Users\Alumno\Desktop\AyED-2025\Etapa2\2_Ruiz_3\2_Ruiz_3\obj\Debug\2_Ruiz_3.pdb
+C:\Users\Alumno\Desktop\AyED-2025\Etapa2\2_Ruiz_3\2_Ruiz_3\obj\Debug\2_Ruiz_3.csprojResolveAssemblyReference.cache
+C:\Users\Alumno\Desktop\AyED-2025\Etapa2\2_Ruiz_3\2_Ruiz_3\bin\Debug\2_Ruiz_3.exe
+C:\Users\Alumno\Desktop\AyED-2025\Etapa2\2_Ruiz_3\2_Ruiz_3\bin\Debug\2_Ruiz_3.pdb

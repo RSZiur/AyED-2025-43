@@ -1,0 +1,6 @@
+C:\Users\Alumno\Desktop\Emir Cervantes TP4\2_Ruiz_1\2_Ruiz_1\bin\Debug\2_Ruiz_1.exe.config
+C:\Users\Alumno\Desktop\Emir Cervantes TP4\2_Ruiz_1\2_Ruiz_1\obj\Debug\2_Ruiz_1.csprojResolveAssemblyReference.cache
+C:\Users\Alumno\Desktop\Emir Cervantes TP4\2_Ruiz_1\2_Ruiz_1\bin\Debug\2_Ruiz_1.exe
+C:\Users\Alumno\Desktop\Emir Cervantes TP4\2_Ruiz_1\2_Ruiz_1\bin\Debug\2_Ruiz_1.pdb
+C:\Users\Alumno\Desktop\Emir Cervantes TP4\2_Ruiz_1\2_Ruiz_1\obj\Debug\2_Ruiz_1.exe
+C:\Users\Alumno\Desktop\Emir Cervantes TP4\2_Ruiz_1\2_Ruiz_1\obj\Debug\2_Ruiz_1.pdb
