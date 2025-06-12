@@ -1,0 +1,7 @@
+C:\Users\Alumno\Desktop\Emir Cervantes TP4\2_Ruiz_4\2_Ruiz_4\bin\Debug\2_Ruiz_4.exe.config
+C:\Users\Alumno\Desktop\AyED-2025\Etapa2\2_Ruiz_4\2_Ruiz_4\bin\Debug\2_Ruiz_4.exe.config
+C:\Users\Alumno\Desktop\AyED-2025\Etapa2\2_Ruiz_4\2_Ruiz_4\obj\Debug\2_Ruiz_4.csprojResolveAssemblyReference.cache
+C:\Users\Alumno\Desktop\AyED-2025\Etapa2\2_Ruiz_4\2_Ruiz_4\bin\Debug\2_Ruiz_4.exe
+C:\Users\Alumno\Desktop\AyED-2025\Etapa2\2_Ruiz_4\2_Ruiz_4\bin\Debug\2_Ruiz_4.pdb
+C:\Users\Alumno\Desktop\AyED-2025\Etapa2\2_Ruiz_4\2_Ruiz_4\obj\Debug\2_Ruiz_4.exe
+C:\Users\Alumno\Desktop\AyED-2025\Etapa2\2_Ruiz_4\2_Ruiz_4\obj\Debug\2_Ruiz_4.pdb
